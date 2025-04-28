@@ -1,0 +1,13 @@
+
+{
+    "name": " ",
+    "version": "1.0.0",
+    "description": "laboratiorio básico con Node.js y Express en Github Codespaces."
+    "main": "index.js",
+    "scripts": {
+        "start": "mode index.js"
+    },
+    "dependencies":{
+        "express": "^4.18.2"
+    }
+}
